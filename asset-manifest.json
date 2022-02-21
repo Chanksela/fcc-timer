@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Chanksela/fcc-timer/static/css/main.5a371563.css",
+    "main.js": "/Chanksela/fcc-timer/static/js/main.8be23588.js",
+    "static/media/beep.mp3": "/Chanksela/fcc-timer/static/media/beep.b22411c006be36f5a8b8.mp3",
+    "index.html": "/Chanksela/fcc-timer/index.html",
+    "main.5a371563.css.map": "/Chanksela/fcc-timer/static/css/main.5a371563.css.map",
+    "main.8be23588.js.map": "/Chanksela/fcc-timer/static/js/main.8be23588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a371563.css",
+    "static/js/main.8be23588.js"
+  ]
+}
